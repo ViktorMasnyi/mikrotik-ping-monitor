@@ -1,4 +1,4 @@
-#The purpose of this app
+##The purpose of this app
 The only purpose of this app is to monitor the connectivity in between one Mikrotik router and list of other hosts by using Router OS ping command.
 You can initiate several ping commands with independent configurations. Output of this ping commands will be structured in the console as a table.
 It can highlight the table record and play alarm sound if certain number of echo responses were lost.
@@ -6,7 +6,7 @@ Only one SSH session will be established with Mikrotik router.
 
 ## How to install and use the app
 
-###This application is intended to work with Microtik RouterOS exclusively!
+This application is intended to work with Microtik RouterOS exclusively!
 
 Install NVM (Node Version Manager)
 ```
