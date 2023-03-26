@@ -1,0 +1,26 @@
+[
+    {
+        "ip": "192.168.88.44",
+        "interface": "lte1",
+        "interval": "00:00:10"
+    },
+    {
+        "ip": "localhost",
+        "interface": "lte2",
+        "interval": "00:00:01"
+    },
+    {
+        "ip": "localhost",
+        "interval": "00:00:01"
+    },
+    {
+        "ip": "localhost",
+        "src-address": "192.168.88.1",
+        "interval": "00:00:01"
+    },
+    {
+        "ip": "8.8.8.8",
+        "interface": "lte1",
+        "interval": "00:00:05"
+    }
+]
